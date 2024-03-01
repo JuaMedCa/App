@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppDado</string>
+    <string name="num">Descripción del campo de número</string>
+    <string name="lanzar">Lanzar</string>
+</resources>
